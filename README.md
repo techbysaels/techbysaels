@@ -4,7 +4,7 @@
 Hello, I'm Santiago. AI Project Manager with experience leading IoT, cloud, and data solutions for fleet-monitoring and enterprise system implementations. I specialize in helping organizations identify, design, and deploy innovative solutions that streamline processes, enhance decision-making, and deliver measurable results.
 
 ### 💼 My Portfolio
-- Check my Project Portfolio where I share my developed projects
+- Check my [Project Portfolio](https://github.com/techbysaels/portfolio-guide/blob/cadeff3e3af39e96e487a58397eeb6629bacca77/README.md) where I share my developed projects
 - Explore my [Professional Portfolio](https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
 
 ### 🛠 Skills
